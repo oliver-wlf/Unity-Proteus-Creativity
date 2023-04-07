@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{613DA42A-8763-17F2-C9A2-DD992FA2CC2E}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MirrorMovement.cs">
+    <Files>
+      <File FileName="Assets/MirrorMovement.cs" Line="5" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestProject_WS" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="128351b2-3f34-4db9-aaa9-2a24dc703bad" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
