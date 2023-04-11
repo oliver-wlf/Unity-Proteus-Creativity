@@ -1,0 +1,12 @@
+TestProject_WS/Library/PackageCache/com.unity.burst@1.7.4/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+TestProject_WS/Library/PackageCache/com.unity.burst@1.7.4/.Runtime/libburst-llvm-12.so filter=lfs diff=lfs merge=lfs -text
+TestProject_WS/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+TestProject_WS/Library/PackageCache/com.unity.burst@1.7.4/.Runtime/hostlin/lld filter=lfs diff=lfs merge=lfs -text
+TestProject_WS/Library/PackageCache/com.unity.burst@1.7.4/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
+TestProject_WS/Library/PackageCache/com.unity.burst@1.7.4/.Runtime/hostmac/lld filter=lfs diff=lfs merge=lfs -text
+TestProject_WS/Library/PackageCache/com.unity.burst@1.7.4/.Runtime/libburst-llvm-12.dylib filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+TestProject_WS/Library/Bee/tundra.log filter=lfs diff=lfs merge=lfs -text
+2.json filter=lfs diff=lfs merge=lfs -text
+TestProject_WS/Library/Bee/tundra.log[[:space:]]2.json filter=lfs diff=lfs merge=lfs -text
