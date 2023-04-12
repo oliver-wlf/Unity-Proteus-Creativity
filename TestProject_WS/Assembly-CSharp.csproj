@@ -955,10 +955,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Didimo.StorePackage.MaleBodies.csproj">
-      <Project>{CD919482-7F56-DE54-2883-279560A7C061}</Project>
-      <Name>Didimo.StorePackage.MaleBodies</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

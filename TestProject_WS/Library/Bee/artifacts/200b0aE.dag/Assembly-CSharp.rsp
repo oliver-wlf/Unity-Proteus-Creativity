@@ -342,7 +342,6 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/com.unity.cinemachine.editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Didimo.Core.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Didimo.Core.ref.dll"
--r:"Library/Bee/artifacts/200b0aE.dag/Didimo.StorePackage.MaleBodies.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Dracodec.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/gltf.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/gltf.ref.dll"

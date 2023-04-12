@@ -3198,3 +3198,570 @@ Received Import Request.
   path: Assets/Didimo/Characters
   artifactKey: Guid(83a87774504354846a9fadadd1010154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Didimo/Characters using Guid(83a87774504354846a9fadadd1010154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68053905a8c34039ba34272951c99c1a') in 0.176321 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007789 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.98 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.74 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Completed reload, in  4.209 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4211ms)
+		BeginReloadAssembly (440ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (41ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (149ms)
+		EndReloadAssembly (3507ms)
+			LoadAssemblies (273ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (556ms)
+				TypeCache.Initialize (508ms)
+					TypeCache.ScanAssembly (496ms)
+				ResolveRequiredComponents (48ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (87ms)
+			SetupLoadedEditorAssemblies (2068ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (31ms)
+				SetLoadedEditorAssemblies (18ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (221ms)
+				ProcessInitializeOnLoadAttributes (1643ms)
+				ProcessInitializeOnLoadMethodAttributes (150ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (109ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 8.62 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.48 ms.
+Unloading 8276 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 91 unused Assets / (3.2 MB). Loaded Objects now: 9742.
+Memory consumption went from 2.36 GB to 2.36 GB.
+Total: 9.241292 ms (FindLiveObjects: 0.909208 ms CreateObjectMapping: 0.424708 ms MarkObjects: 6.709084 ms  DeleteObjects: 1.195875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 364.484369 seconds.
+  path: Packages/com.didimo.sdk.core/package.json
+  artifactKey: Guid(2c03ece8856ae8f45a9b2b038e13ab8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/package.json using Guid(2c03ece8856ae8f45a9b2b038e13ab8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca278989d7df17ccaf89adb1c4df9ad5') in 0.044366 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005006 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.86 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.35 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Completed reload, in  3.957 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3965ms)
+		BeginReloadAssembly (373ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (36ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (138ms)
+		EndReloadAssembly (3360ms)
+			LoadAssemblies (224ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (509ms)
+				TypeCache.Initialize (462ms)
+					TypeCache.ScanAssembly (456ms)
+				ResolveRequiredComponents (47ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (85ms)
+			SetupLoadedEditorAssemblies (1995ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (30ms)
+				SetLoadedEditorAssemblies (18ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (179ms)
+				ProcessInitializeOnLoadAttributes (1610ms)
+				ProcessInitializeOnLoadMethodAttributes (154ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (99ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.91 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.39 ms.
+Unloading 8276 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 90 unused Assets / (3.2 MB). Loaded Objects now: 9758.
+Memory consumption went from 2.35 GB to 2.35 GB.
+Total: 9.505542 ms (FindLiveObjects: 0.624958 ms CreateObjectMapping: 0.368583 ms MarkObjects: 7.648917 ms  DeleteObjects: 0.861667 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 876.204892 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hair/hair_007/hair_007.obj
+  artifactKey: Guid(251612d8f06574c45a9fd0be22bc0315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hair/hair_007/hair_007.obj using Guid(251612d8f06574c45a9fd0be22bc0315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77dc3b8857cfeef4c2f0858b3f65fcd1') in 5.069423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/Aluminium_Mat.mat
+  artifactKey: Guid(7e2338eeff7d3b0439250086f961228b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/Aluminium_Mat.mat using Guid(7e2338eeff7d3b0439250086f961228b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8032559a5dbf93d5aff187a219c76e6b') in 0.455808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_001/BaseballHat_Hair_001.obj_hat_URP.mat
+  artifactKey: Guid(29a6cff4a0d1be142ac1f9a9ed82d82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_001/BaseballHat_Hair_001.obj_hat_URP.mat using Guid(29a6cff4a0d1be142ac1f9a9ed82d82a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2c7e22c74949d84e65ca573a0b1c63b') in 0.113617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat/BaseballHat.mat
+  artifactKey: Guid(0dea950c6e5ceab4dac3da105f1faccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat/BaseballHat.mat using Guid(0dea950c6e5ceab4dac3da105f1faccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c235ffd648c4dbbad3260a86d3d149eb') in 0.030278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat/BaseballHat.obj
+  artifactKey: Guid(7a70d1702f235a141a6afe6697bb32a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat/BaseballHat.obj using Guid(7a70d1702f235a141a6afe6697bb32a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f8fd33202fa532ced045f69da7ec248') in 0.063947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/Bamboo_A.mat
+  artifactKey: Guid(fff7b0d103b7de54f810338cd8c6d44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/Bamboo_A.mat using Guid(fff7b0d103b7de54f810338cd8c6d44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcba6ddd4147e9ed215417f89799b652') in 0.351483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.955357 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_001/BaseballHat_Hair_001.obj_outer_URP.mat
+  artifactKey: Guid(d6d92a3de8701194da3389aa73d19ef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_001/BaseballHat_Hair_001.obj_outer_URP.mat using Guid(d6d92a3de8701194da3389aa73d19ef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0367c6950bc1da7a5240ab4b45ed698') in 0.037581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.043424 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_003/BaseballHat_Hair_003.obj_inner_opaque_URP.mat
+  artifactKey: Guid(d5eb3814b27a9a54dba5870ded3aa5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_003/BaseballHat_Hair_003.obj_inner_opaque_URP.mat using Guid(d5eb3814b27a9a54dba5870ded3aa5de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73907814a259d782812e2ee8d9188795') in 0.325708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.001197 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_003/BaseballHat_Hair_003.obj
+  artifactKey: Guid(5d2097125802af14c90f4fea8686d5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_003/BaseballHat_Hair_003.obj using Guid(5d2097125802af14c90f4fea8686d5b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e03183e457d00181b5b78a5864343d5') in 0.111484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Materials/M2021_007_FULLBODY/BodySkin_Combined.mat
+  artifactKey: Guid(75f3b9ba2ab6e5b488605e0f263701ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Materials/M2021_007_FULLBODY/BodySkin_Combined.mat using Guid(75f3b9ba2ab6e5b488605e0f263701ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04fcd6314c3a946d44a7f8ac9a687db9') in 0.270048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_007_FULLBODY/avatar.gltf
+  artifactKey: Guid(843ce50946c877d458ac367aad169782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_007_FULLBODY/avatar.gltf using Guid(843ce50946c877d458ac367aad169782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '929c10b61cd9a95c86b2ae59d9928763') in 16.755242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/Collider.mat
+  artifactKey: Guid(bbb235fff4f48426b863b36058ab66d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/Collider.mat using Guid(bbb235fff4f48426b863b36058ab66d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9c0fd77eb8160b1c82e2211c65e716') in 0.075358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/ConcreteCyan_Mat.mat
+  artifactKey: Guid(6a4a9cd798f58bf419164a016513c59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/ConcreteCyan_Mat.mat using Guid(6a4a9cd798f58bf419164a016513c59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f83e4b10c57eb79908680b17a67f34f') in 0.044988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Font/Catamaran-Thin SDF.asset
+  artifactKey: Guid(58f470b196f3c5b40a0dba87587055f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Font/Catamaran-Thin SDF.asset using Guid(58f470b196f3c5b40a0dba87587055f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2726b829ff5c4dad923d88e46f34a886') in 0.110747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/DecalWearDark_Mat.mat
+  artifactKey: Guid(b1441bdf13e2e4c43a6f92783fe4adef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/DecalWearDark_Mat.mat using Guid(b1441bdf13e2e4c43a6f92783fe4adef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67c3d19dc3dde2bc6795cc261d6cfe24') in 0.040619 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/DefaultHDParticleMaterial.mat
+  artifactKey: Guid(b739a3f02ff77bf48b7636e64c3e3b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/DefaultHDParticleMaterial.mat using Guid(b739a3f02ff77bf48b7636e64c3e3b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b785f73d0abbec50753fa0531c0af1') in 0.054905 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Packages/com.unity.probuilder/Content/Material/Checker.mat
+  artifactKey: Guid(4717b199010ca4cb3a8a7a465ec457d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Material/Checker.mat using Guid(4717b199010ca4cb3a8a7a465ec457d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055cfd12751945211257d5614a8506cc') in 0.026750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/ConcreteHoles_Mat.mat
+  artifactKey: Guid(cf59b8132f6cd2f49b8924afeed7674b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/ConcreteHoles_Mat.mat using Guid(cf59b8132f6cd2f49b8924afeed7674b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '839aaa1c58387158e7a5c571f04666dd') in 0.024551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/DefaultHDMirrorMaterial.mat
+  artifactKey: Guid(6b17274157b33bc45b6a40e7d4ff51fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/DefaultHDMirrorMaterial.mat using Guid(6b17274157b33bc45b6a40e7d4ff51fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75fd6e5a8e61b9579069e15f593f87d1') in 0.019560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/DefaultHDMaterial.mat
+  artifactKey: Guid(73c176f402d2c2f4d929aa5da7585d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/DefaultHDMaterial.mat using Guid(73c176f402d2c2f4d929aa5da7585d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a551d34d3828163868406ec8c4777e37') in 0.020508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/DefaultHDTerrainMaterial.mat
+  artifactKey: Guid(22ff8771d87ef27429e670136399094b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/DefaultHDTerrainMaterial.mat using Guid(22ff8771d87ef27429e670136399094b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46717dc076c9bb0b5817d896295551e') in 0.659921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_008_FULLBODY/avatar.gltf
+  artifactKey: Guid(3efba8ff148a3404898497db9e5c175e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_008_FULLBODY/avatar.gltf using Guid(3efba8ff148a3404898497db9e5c175e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75ac52618d05cda90285691f2d376e4c') in 0.397161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/Collision_Mat.mat
+  artifactKey: Guid(a7f9b9f3a7ec88a42bcdef7463ccbffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/Collision_Mat.mat using Guid(a7f9b9f3a7ec88a42bcdef7463ccbffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb9ace736a16adfda92c586c60f5902') in 0.024575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_008_FULLBODY/BaseballHat.obj
+  artifactKey: Guid(5aa17326c7a9283478a6ea6156e91d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_008_FULLBODY/BaseballHat.obj using Guid(5aa17326c7a9283478a6ea6156e91d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3441a090e30a1668455fb148f2417854') in 0.055638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/Bush_01_Mat.mat
+  artifactKey: Guid(c8ff19ec299458747b23b805b74ed9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/Bush_01_Mat.mat using Guid(c8ff19ec299458747b23b805b74ed9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c366974bb4b0abc5aa6c41342c6d53e2') in 0.346808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/DecalPuddle_Mat.mat
+  artifactKey: Guid(94d80f3e038421840941e22d06feee02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/DecalPuddle_Mat.mat using Guid(94d80f3e038421840941e22d06feee02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e843ef1b711e11c708b5976ecebfab') in 0.019590 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005404 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.90 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.59 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Completed reload, in  4.409 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4411ms)
+		BeginReloadAssembly (540ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (144ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (161ms)
+		EndReloadAssembly (3631ms)
+			LoadAssemblies (257ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (582ms)
+				TypeCache.Initialize (518ms)
+					TypeCache.ScanAssembly (510ms)
+				ResolveRequiredComponents (65ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (89ms)
+			SetupLoadedEditorAssemblies (2185ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (32ms)
+				SetLoadedEditorAssemblies (18ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (224ms)
+				ProcessInitializeOnLoadAttributes (1735ms)
+				ProcessInitializeOnLoadMethodAttributes (172ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (107ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.25 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.34 ms.
+Unloading 8284 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 90 unused Assets / (3.2 MB). Loaded Objects now: 9932.
+Memory consumption went from 2.43 GB to 2.43 GB.
+Total: 6.705917 ms (FindLiveObjects: 0.574333 ms CreateObjectMapping: 0.324500 ms MarkObjects: 4.964375 ms  DeleteObjects: 0.840750 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:srp/default-material: 371c674f202d2c4f9d92aad57a85d571 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 23.559043 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/GlassDark_Mat.mat
+  artifactKey: Guid(51396a457ace7ca459c474a7d7ed6ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/GlassDark_Mat.mat using Guid(51396a457ace7ca459c474a7d7ed6ceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38a3c2a99be369d29edd707dceaa897e') in 3.068473 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/GlassDirt_Mat.mat
+  artifactKey: Guid(cb70645871dc2f74981c86ec014a1cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/GlassDirt_Mat.mat using Guid(cb70645871dc2f74981c86ec014a1cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd657287d5c1de415bcf20c857642ae7a') in 0.527960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/Fabric_Mat.mat
+  artifactKey: Guid(d7e92d5116171344ba594f9d547cd085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/Fabric_Mat.mat using Guid(d7e92d5116171344ba594f9d547cd085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd97a72681c13f962bec67a9906b69199') in 0.052663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 192.939716 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(6a8b9fc9274d94d8a945a5fa8e3d42a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(6a8b9fc9274d94d8a945a5fa8e3d42a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b75d475ec97692b69035a98206f5be9e') in 0.002743 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.378126 seconds.
+  path: Assets/Materials/StandingPad Material.mat
+  artifactKey: Guid(52c6ae82c2c854874917b95b8cabbda3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/StandingPad Material.mat using Guid(52c6ae82c2c854874917b95b8cabbda3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9370d4005d080ba7b30a4c6cd3b1eaa5') in 0.172957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 182.296682 seconds.
+  path: Assets/SampleSceneAssets/Tutorials/Assets/BeforeStart-1.png
+  artifactKey: Guid(92183016ba091f144a8a872df8567444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Tutorials/Assets/BeforeStart-1.png using Guid(92183016ba091f144a8a872df8567444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f6313302581d440864cea514cc02c9f') in 0.053592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/SampleSceneAssets/Tutorials/Assets/BeforeStart-3.png
+  artifactKey: Guid(a30c03ddffd300c48ba1632d06d05a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Tutorials/Assets/BeforeStart-3.png using Guid(a30c03ddffd300c48ba1632d06d05a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f4cfb130ecb133832beba2c5a862f4') in 0.014481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Stairs@2x_Light.png
+  artifactKey: Guid(84f11703040232d429af65cbd3ee982c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Stairs@2x_Light.png using Guid(84f11703040232d429af65cbd3ee982c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d34fcea7b4b6f6f0fd7df8dcce8df4') in 0.009602 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Stairs.png
+  artifactKey: Guid(db8ede24485cce14ca6db9839d7eb3f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Stairs.png using Guid(db8ede24485cce14ca6db9839d7eb3f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1e700c57999ff1f42796e255cb5a59d') in 0.009049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Stair@2x.png
+  artifactKey: Guid(d672df2ef6f6d8941988529120f24d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Stair@2x.png using Guid(d672df2ef6f6d8941988529120f24d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1224e60985414bc3b89ba52bea131cd') in 0.009736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 233.365622 seconds.
+  path: Assets/Materials/Materials
+  artifactKey: Guid(f376b2637940344b6a46fb62126ea3f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials using Guid(f376b2637940344b6a46fb62126ea3f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd85622a85954dddf55d097cbc65d356b') in 0.002058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.689159 seconds.
+  path: Assets/Materials/Materials/StandingPosition.mat
+  artifactKey: Guid(dfa553d2628a44836abb4345838216db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Materials/StandingPosition.mat using Guid(dfa553d2628a44836abb4345838216db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d359d89df065ab905560bc9e751f71') in 0.230098 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006558 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.93 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.72 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Completed reload, in  4.358 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4360ms)
+		BeginReloadAssembly (591ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (185ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (171ms)
+		EndReloadAssembly (3534ms)
+			LoadAssemblies (293ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (518ms)
+				TypeCache.Initialize (476ms)
+					TypeCache.ScanAssembly (469ms)
+				ResolveRequiredComponents (42ms)
+			ReleaseScriptCaches (5ms)
+			RebuildScriptCaches (88ms)
+			SetupLoadedEditorAssemblies (2067ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (32ms)
+				SetLoadedEditorAssemblies (19ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (191ms)
+				ProcessInitializeOnLoadAttributes (1668ms)
+				ProcessInitializeOnLoadMethodAttributes (152ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (105ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.48 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.37 ms.
+Unloading 8276 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 90 unused Assets / (3.1 MB). Loaded Objects now: 10094.
+Memory consumption went from 2.42 GB to 2.42 GB.
+Total: 10.042916 ms (FindLiveObjects: 0.679333 ms CreateObjectMapping: 0.503917 ms MarkObjects: 7.794250 ms  DeleteObjects: 1.063250 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:srp/default-material: 371c674f202d2c4f9d92aad57a85d571 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005542 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.95 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.65 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Completed reload, in  4.150 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4152ms)
+		BeginReloadAssembly (453ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (39ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (195ms)
+		EndReloadAssembly (3458ms)
+			LoadAssemblies (241ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (496ms)
+				TypeCache.Initialize (453ms)
+					TypeCache.ScanAssembly (447ms)
+				ResolveRequiredComponents (43ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (86ms)
+			SetupLoadedEditorAssemblies (2118ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (32ms)
+				SetLoadedEditorAssemblies (19ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (226ms)
+				ProcessInitializeOnLoadAttributes (1688ms)
+				ProcessInitializeOnLoadMethodAttributes (150ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (102ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.56 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.49 ms.
+Unloading 8276 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 90 unused Assets / (3.2 MB). Loaded Objects now: 10110.
+Memory consumption went from 2.41 GB to 2.41 GB.
+Total: 61.297083 ms (FindLiveObjects: 0.858125 ms CreateObjectMapping: 0.453542 ms MarkObjects: 58.936583 ms  DeleteObjects: 1.043541 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:srp/default-material: 371c674f202d2c4f9d92aad57a85d571 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

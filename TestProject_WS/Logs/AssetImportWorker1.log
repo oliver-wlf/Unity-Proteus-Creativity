@@ -3121,3 +3121,624 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005616 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.97 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.77 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Completed reload, in  4.139 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4141ms)
+		BeginReloadAssembly (441ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (35ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (144ms)
+		EndReloadAssembly (3433ms)
+			LoadAssemblies (271ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (539ms)
+				TypeCache.Initialize (488ms)
+					TypeCache.ScanAssembly (481ms)
+				ResolveRequiredComponents (51ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (87ms)
+			SetupLoadedEditorAssemblies (2098ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (35ms)
+				SetLoadedEditorAssemblies (18ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (178ms)
+				ProcessInitializeOnLoadAttributes (1719ms)
+				ProcessInitializeOnLoadMethodAttributes (144ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (117ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 8.46 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 2.59 ms.
+Unloading 8276 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 91 unused Assets / (3.1 MB). Loaded Objects now: 9408.
+Memory consumption went from 2.69 GB to 2.68 GB.
+Total: 12.775875 ms (FindLiveObjects: 1.894167 ms CreateObjectMapping: 0.592959 ms MarkObjects: 9.092959 ms  DeleteObjects: 1.192875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004926 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.95 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.42 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Completed reload, in  3.926 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3929ms)
+		BeginReloadAssembly (371ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (32ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (134ms)
+		EndReloadAssembly (3319ms)
+			LoadAssemblies (223ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (506ms)
+				TypeCache.Initialize (458ms)
+					TypeCache.ScanAssembly (452ms)
+				ResolveRequiredComponents (48ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (87ms)
+			SetupLoadedEditorAssemblies (2036ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (32ms)
+				SetLoadedEditorAssemblies (17ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (188ms)
+				ProcessInitializeOnLoadAttributes (1649ms)
+				ProcessInitializeOnLoadMethodAttributes (146ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (110ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.91 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.43 ms.
+Unloading 8276 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 90 unused Assets / (3.2 MB). Loaded Objects now: 9424.
+Memory consumption went from 2.68 GB to 2.67 GB.
+Total: 9.556000 ms (FindLiveObjects: 0.620667 ms CreateObjectMapping: 0.341083 ms MarkObjects: 7.689750 ms  DeleteObjects: 0.903000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 9692.815437 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hair/hair_009/hair_009.obj
+  artifactKey: Guid(a2ad12711afb17f4a8499bc45f4386e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hair/hair_009/hair_009.obj using Guid(a2ad12711afb17f4a8499bc45f4386e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cccac065926cecb6f1982b112f84d33') in 5.091206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_007_FULLBODY/avatar_headless_URP.mat
+  artifactKey: Guid(71951505fd85bfd4d938af9c441a6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_007_FULLBODY/avatar_headless_URP.mat using Guid(71951505fd85bfd4d938af9c441a6510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0092e8c02049fb24952c3089dc27e26b') in 0.162110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/Bamboo_Leaf_A.mat
+  artifactKey: Guid(1ee01111bb691c348a61b9a5b38c8897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/Bamboo_Leaf_A.mat using Guid(1ee01111bb691c348a61b9a5b38c8897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8472ff4eb23d8f322c643c66201f037d') in 0.495865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat/BaseballHat.obj_inner_opaque_URP.mat
+  artifactKey: Guid(8b2f66306a432934aa82b3bd40652857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat/BaseballHat.obj_inner_opaque_URP.mat using Guid(8b2f66306a432934aa82b3bd40652857) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d7e87239dc4e94bdbd188779fa4936') in 0.054182 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_001/BaseballHat_Hair_001.obj_inner_URP.mat
+  artifactKey: Guid(7651d83a191eb1945b48c3454ac3c198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_001/BaseballHat_Hair_001.obj_inner_URP.mat using Guid(7651d83a191eb1945b48c3454ac3c198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6453e841e66b16aca7a8cd806420e83d') in 0.026525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_001/BaseballHat_Hair_001.obj_inner_opaque_URP.mat
+  artifactKey: Guid(95796bbc7781fd94eaaf146e029e3259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_001/BaseballHat_Hair_001.obj_inner_opaque_URP.mat using Guid(95796bbc7781fd94eaaf146e029e3259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '808e60498d7a704081644af4fb1be244') in 0.021371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat/BaseballHat.obj_hat_URP.mat
+  artifactKey: Guid(065343107cdd9a24791aa8800f1ccbde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat/BaseballHat.obj_hat_URP.mat using Guid(065343107cdd9a24791aa8800f1ccbde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e022a15933519bd9fedd70b2c4f6cd0') in 0.234484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.946155 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_003/BaseballHat_Hair_003.obj_hat_URP.mat
+  artifactKey: Guid(6469a3c01a6ef4e449900e3af4690378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_003/BaseballHat_Hair_003.obj_hat_URP.mat using Guid(6469a3c01a6ef4e449900e3af4690378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234915c10e6a6d37dc3cac8ee55a52da') in 0.043488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.037538 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_003/BaseballHat_Hair_003.obj_inner_URP.mat
+  artifactKey: Guid(a0e2751997846ce4794df579abbaf7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Deformables/Hats/BaseballHat_Hair_003/BaseballHat_Hair_003.obj_inner_URP.mat using Guid(a0e2751997846ce4794df579abbaf7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb3fb71e81cbdaf35814b775371450c4') in 0.023636 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.383702 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_004_FULLBODY/avatar.gltf
+  artifactKey: Guid(c892c9d58e56d54409a611f58ab51298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_004_FULLBODY/avatar.gltf using Guid(c892c9d58e56d54409a611f58ab51298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ddb3aaaefece408c85813dc54e972c') in 15.721732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Eye/EditableEyeMaterial.mat
+  artifactKey: Guid(d9c06e9760f89db40ae9e361a2df2e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Eye/EditableEyeMaterial.mat using Guid(d9c06e9760f89db40ae9e361a2df2e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43fa3e13109a17c486de28a2f1b0da65') in 0.028822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/SampleSceneAssets/Meshes/Structure/Model/TR_CurveWall_01.fbx
+  artifactKey: Guid(1afb92d10ccf8d440ab494fb20332849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Meshes/Structure/Model/TR_CurveWall_01.fbx using Guid(1afb92d10ccf8d440ab494fb20332849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c69a46ede0b43abaaf2ea9499b12db0') in 0.301519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/ConcreteSmooth_Mat.mat
+  artifactKey: Guid(975c89d1f9e67f24a88b46d50fc95a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/ConcreteSmooth_Mat.mat using Guid(975c89d1f9e67f24a88b46d50fc95a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c974a1eec8bd455532f21685b37e842f') in 0.023255 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/SampleSceneAssets/Meshes/Props/Furniture/Models/GlassCase_01.fbx
+  artifactKey: Guid(5ee624ffeecf1324aba047bca3298fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Meshes/Props/Furniture/Models/GlassCase_01.fbx using Guid(5ee624ffeecf1324aba047bca3298fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3bd4d027e7ca857b6ebc0fb0ed841d') in 0.750154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/ConcreteTaupe_Mat.mat
+  artifactKey: Guid(8803ecc3c0ada6f48bbd21e716f8522b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/ConcreteTaupe_Mat.mat using Guid(8803ecc3c0ada6f48bbd21e716f8522b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b60d4232580bbdace7d072c3ec157aa') in 0.027915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Decal.mat
+  artifactKey: Guid(31d0dcc6f2dd4e4408d18036a2c93862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Decal.mat using Guid(31d0dcc6f2dd4e4408d18036a2c93862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a1c37d75bd805ab95f172b8220e49ba') in 0.021858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/ConcreteRough_Mat.mat
+  artifactKey: Guid(2d5eb5266d7bdbf49a5a251d8dcecbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/ConcreteRough_Mat.mat using Guid(2d5eb5266d7bdbf49a5a251d8dcecbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd4283308a31b4107d55b1e20373d6b4') in 0.024610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/DefaultHDDecalMaterial.mat
+  artifactKey: Guid(500e733574922d04ea961553b1b26a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.high-definition/Runtime/RenderPipelineResources/Material/DefaultHDDecalMaterial.mat using Guid(500e733574922d04ea961553b1b26a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b170689114ecc50aa8b4cb9c0d14c361') in 0.039452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/SampleSceneAssets/Meshes/Structure/Model/TR_Counter_01.fbx
+  artifactKey: Guid(93a4b7efc82a6bf48ae489a6b36f228d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Meshes/Structure/Model/TR_Counter_01.fbx using Guid(93a4b7efc82a6bf48ae489a6b36f228d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04091bdc357e47c0d5b9a7bdbe9d33b6') in 0.100571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_004_FULLBODY/BaseballHat_Hair_01.obj
+  artifactKey: Guid(2ce807b8803e9eb438ed4abaff89a4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_004_FULLBODY/BaseballHat_Hair_01.obj using Guid(2ce807b8803e9eb438ed4abaff89a4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '940eef74335d8f1d67f37d3c1b2b961e') in 0.065813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/Decal_Mat.mat
+  artifactKey: Guid(811cfb822fc52b94997d2481839de2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/Decal_Mat.mat using Guid(811cfb822fc52b94997d2481839de2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a0eea6fe534ca1cf828860add67c7db') in 0.020355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/Drain_Mat.mat
+  artifactKey: Guid(25ff1792fc2d80b4789c32a4c61e65bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/Drain_Mat.mat using Guid(25ff1792fc2d80b4789c32a4c61e65bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caefd06905e343560111953e715d9282') in 0.429513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_004_FULLBODY/hair_001.obj
+  artifactKey: Guid(3986c54dbc5162742b53aa9807622492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_004_FULLBODY/hair_001.obj using Guid(3986c54dbc5162742b53aa9807622492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd04c1bdfe4ee040a04d38c62c851e3ea') in 0.056958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Materials/M2021_004_FULLBODY/BodySkin_Combined.mat
+  artifactKey: Guid(eb913db6d069b744d88b36f50d7ab316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Materials/M2021_004_FULLBODY/BodySkin_Combined.mat using Guid(eb913db6d069b744d88b36f50d7ab316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f4f7318b3fa385f9ac58421e4f08a99') in 0.042648 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/HeadOnly/Models/MeetADidimoWoman/hair_001.obj
+  artifactKey: Guid(0ec508e69d5bc1f49b8926a5be25f5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/HeadOnly/Models/MeetADidimoWoman/hair_001.obj using Guid(0ec508e69d5bc1f49b8926a5be25f5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '070d3a2592b200b773ee9fae9b13f7af') in 0.057031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/DecalWear_Mat.mat
+  artifactKey: Guid(753df2e0125847048a1945118de016e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/DecalWear_Mat.mat using Guid(753df2e0125847048a1945118de016e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '644c461ae1ddc6124a3486fb6ed48e9d') in 0.021056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Materials/M2021_008_FULLBODY/BodySkin_Combined.mat
+  artifactKey: Guid(3ff96fe8c86167044a2e375bde700ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Materials/M2021_008_FULLBODY/BodySkin_Combined.mat using Guid(3ff96fe8c86167044a2e375bde700ff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30255e71458afa13ec58b260a6d6c97f') in 0.034113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Materials/M2021_005_FULLBODY/BodySkin_Combined.mat
+  artifactKey: Guid(4c19f2effe286cc44a3cd708346536e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Materials/M2021_005_FULLBODY/BodySkin_Combined.mat using Guid(4c19f2effe286cc44a3cd708346536e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d157bd4b73c0eb7e6c5b22938e1f8c') in 0.034464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_007_FULLBODY/BaseballHat.obj
+  artifactKey: Guid(5314482782bb83b45ae7c96f40c09fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_007_FULLBODY/BaseballHat.obj using Guid(5314482782bb83b45ae7c96f40c09fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b206933a0f82c6cdd0a69effa133c3f') in 0.057894 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/EdgePickerHDRP.mat
+  artifactKey: Guid(980c24c5a501a9a429356d191ad356a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/EdgePickerHDRP.mat using Guid(980c24c5a501a9a429356d191ad356a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fbaf9d0553f95e11c2feb666d97b225') in 0.019411 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Packages/com.unity.probuilder/Content/Resources/Materials/EdgePicker.mat
+  artifactKey: Guid(4ff996e3a0a5743a3987ab6231160665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Resources/Materials/EdgePicker.mat using Guid(4ff996e3a0a5743a3987ab6231160665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27889829869c32cf385ef4df1aac8971') in 0.021234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/ConcreteMatteGrey_Mat.mat
+  artifactKey: Guid(f042a9897837021468ecfcb204be998e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/ConcreteMatteGrey_Mat.mat using Guid(f042a9897837021468ecfcb204be998e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aae3c9b6794da85a941f7e3568aaa454') in 0.019693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/ConcretePolished_Mat.mat
+  artifactKey: Guid(5948dbaa050aa8f488c46767a205e35d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/ConcretePolished_Mat.mat using Guid(5948dbaa050aa8f488c46767a205e35d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9187443ea9d598b0f59e0a67079620b') in 0.023627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_004_FULLBODY/BaseballHat.obj
+  artifactKey: Guid(d0a591552beae8440872f64a051e9621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_004_FULLBODY/BaseballHat.obj using Guid(d0a591552beae8440872f64a051e9621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b5d563bd39f2768f95ae86d1e7f2633') in 0.060297 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_005_FULLBODY/BaseballHat.obj
+  artifactKey: Guid(6a215521894b9044aae04aaf7e5e18e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_005_FULLBODY/BaseballHat.obj using Guid(6a215521894b9044aae04aaf7e5e18e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcdcfb381ce4fcd75444efdf4a7278b0') in 0.064258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_005_FULLBODY/avatar.gltf
+  artifactKey: Guid(ea7c22e28efe94f4db4f0d354ec394c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.didimo.sdk.core/Runtime/Content/Didimos/Fullbody/Models/M2021_005_FULLBODY/avatar.gltf using Guid(ea7c22e28efe94f4db4f0d354ec394c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '722eea2158561c0b53bbdcb7821358b9') in 0.387359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/Brass_Mat.mat
+  artifactKey: Guid(51715d426647c0a469aa54fd0d386aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/Brass_Mat.mat using Guid(51715d426647c0a469aa54fd0d386aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ac644af77b095e0398af727e096a047') in 0.382512 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005300 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.06 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.67 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Completed reload, in  4.464 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4466ms)
+		BeginReloadAssembly (553ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (163ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (162ms)
+		EndReloadAssembly (3659ms)
+			LoadAssemblies (261ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (540ms)
+				TypeCache.Initialize (479ms)
+					TypeCache.ScanAssembly (471ms)
+				ResolveRequiredComponents (61ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (87ms)
+			SetupLoadedEditorAssemblies (2245ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (33ms)
+				SetLoadedEditorAssemblies (19ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (227ms)
+				ProcessInitializeOnLoadAttributes (1808ms)
+				ProcessInitializeOnLoadMethodAttributes (154ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (107ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.21 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.33 ms.
+Unloading 8285 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 90 unused Assets / (3.2 MB). Loaded Objects now: 9638.
+Memory consumption went from 2.76 GB to 2.75 GB.
+Total: 7.061459 ms (FindLiveObjects: 0.554875 ms CreateObjectMapping: 0.380583 ms MarkObjects: 5.240208 ms  DeleteObjects: 0.884292 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 23.563906 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/EmissiveStripLight_BakedGI_Mat.mat
+  artifactKey: Guid(fb7b7efa023634c43844d5df813fe6a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/EmissiveStripLight_BakedGI_Mat.mat using Guid(fb7b7efa023634c43844d5df813fe6a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b035bb7d1c327a98998be35914a2bb9') in 2.607851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/Ground_Mat.mat
+  artifactKey: Guid(80c783de8f9d2de49aa80661a4466819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/Ground_Mat.mat using Guid(80c783de8f9d2de49aa80661a4466819) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35380725ee09ec8fdce46e91e89b345a') in 0.101929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/EmissiveBulb_Mat.mat
+  artifactKey: Guid(82f22cfcd3162714f97430d3043d810f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/EmissiveBulb_Mat.mat using Guid(82f22cfcd3162714f97430d3043d810f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5e792cd674ce6b7e3624916554b5c1') in 0.023804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/Fern_01_Mat.mat
+  artifactKey: Guid(41b4ab126d0398d4a82ef0abf15e1226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/Fern_01_Mat.mat using Guid(41b4ab126d0398d4a82ef0abf15e1226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9844ab21eb029b439ca5f0281c9bd81') in 0.567153 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/SampleSceneAssets/Particles/ButterFlies.vfx
+  artifactKey: Guid(3ccc63e203e655541916b8baf4eba847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Particles/ButterFlies.vfx using Guid(3ccc63e203e655541916b8baf4eba847) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Metal: Vertex or Fragment Shader "Hidden/VFX/ButterFlies/System/Output Particle HDRP Lit Quad" requires a ComputeBuffer at index 4 to be bound, but none provided. Skipping draw calls to avoid crashing.
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.Rendering.ScriptableRenderContext:Submit_Internal ()
+UnityEngine.Rendering.ScriptableRenderContext:Submit () (at /Users/bokken/buildslave/unity/build/Runtime/Export/RenderPipeline/ScriptableRenderContext.cs:110)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:Render (UnityEngine.Rendering.ScriptableRenderContext,System.Collections.Generic.List`1<UnityEngine.Camera>) (at Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.8/Runtime/RenderPipeline/HDRenderPipeline.cs:1986)
+UnityEngine.Rendering.RenderPipeline:InternalRender (UnityEngine.Rendering.ScriptableRenderContext,System.Collections.Generic.List`1<UnityEngine.Camera>) (at /Users/bokken/buildslave/unity/build/Runtime/Export/RenderPipeline/RenderPipeline.cs:51)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal (UnityEngine.Rendering.RenderPipelineAsset,intptr,System.Collections.Generic.List`1<UnityEngine.Camera/RenderRequest>,Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle) (at /Users/bokken/buildslave/unity/build/Runtime/Export/RenderPipeline/RenderPipelineManager.cs:115)
+UnityEditor.PreviewRenderUtility:Render (bool,bool) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/PreviewRenderUtility.cs:539)
+UnityEditor.MaterialEditor:DoRenderPreview (UnityEditor.PreviewRenderUtility,bool) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/MaterialEditor.cs:2708)
+UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/Inspector/MaterialEditor.cs:2570)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:38)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string) (at /Users/bokken/buildslave/unity/build/Editor/Mono/AssetPreviewUpdater.cs:9)
+
+[/Users/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs line 37]
+
+ -> (artifact id: 'e36104120eb41d106f2b0b76e30ba243') in 0.187981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/SampleSceneAssets/Materials/General/EmissiveStripLight_RealtimeGI_Mat.mat
+  artifactKey: Guid(89777c57e448943439338a5ab2851332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Materials/General/EmissiveStripLight_RealtimeGI_Mat.mat using Guid(89777c57e448943439338a5ab2851332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95e3cba2ca6a01831cf2068ec7ccab02') in 0.375615 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 396.597312 seconds.
+  path: Assets/SampleSceneAssets/Tutorials/Assets/BeforeStart-2.png
+  artifactKey: Guid(d0dca5d7942d2f14e848604fd920080d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SampleSceneAssets/Tutorials/Assets/BeforeStart-2.png using Guid(d0dca5d7942d2f14e848604fd920080d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '063a86d1f90c1f8f256634bbe6db2a41') in 0.083609 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Stairs@2x.png
+  artifactKey: Guid(ad00c1523308ff84fa1a975de7a4f150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Stairs@2x.png using Guid(ad00c1523308ff84fa1a975de7a4f150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3428ab33200a457c52e3b0f94093a33') in 0.011617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Stair.png
+  artifactKey: Guid(47d1b6289109a1b448ba58881c54eaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Stair.png using Guid(47d1b6289109a1b448ba58881c54eaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992aa5f7ee8435d2293aecdba1cd22cc') in 0.010543 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006684 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.73 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.60 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Completed reload, in  4.405 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4407ms)
+		BeginReloadAssembly (603ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (194ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (173ms)
+		EndReloadAssembly (3565ms)
+			LoadAssemblies (283ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (522ms)
+				TypeCache.Initialize (478ms)
+					TypeCache.ScanAssembly (471ms)
+				ResolveRequiredComponents (44ms)
+			ReleaseScriptCaches (12ms)
+			RebuildScriptCaches (88ms)
+			SetupLoadedEditorAssemblies (2093ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (33ms)
+				SetLoadedEditorAssemblies (18ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (188ms)
+				ProcessInitializeOnLoadAttributes (1689ms)
+				ProcessInitializeOnLoadMethodAttributes (162ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (107ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.41 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.37 ms.
+Unloading 8276 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 90 unused Assets / (3.2 MB). Loaded Objects now: 9800.
+Memory consumption went from 2.75 GB to 2.75 GB.
+Total: 9.689500 ms (FindLiveObjects: 0.653833 ms CreateObjectMapping: 0.370792 ms MarkObjects: 7.718875 ms  DeleteObjects: 0.944125 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005303 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.04 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.66 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Completed reload, in  4.201 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4204ms)
+		BeginReloadAssembly (450ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (37ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (193ms)
+		EndReloadAssembly (3511ms)
+			LoadAssemblies (227ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (493ms)
+				TypeCache.Initialize (451ms)
+					TypeCache.ScanAssembly (444ms)
+				ResolveRequiredComponents (42ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (86ms)
+			SetupLoadedEditorAssemblies (2170ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (32ms)
+				SetLoadedEditorAssemblies (19ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (214ms)
+				ProcessInitializeOnLoadAttributes (1745ms)
+				ProcessInitializeOnLoadMethodAttributes (156ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (116ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 7.56 ms, found 5 plugins.
+Preloading 1 native plugins for Editor in 0.45 ms.
+Unloading 8276 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 90 unused Assets / (3.1 MB). Loaded Objects now: 9816.
+Memory consumption went from 2.74 GB to 2.74 GB.
+Total: 56.835667 ms (FindLiveObjects: 0.832583 ms CreateObjectMapping: 0.420375 ms MarkObjects: 53.814208 ms  DeleteObjects: 1.766375 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
