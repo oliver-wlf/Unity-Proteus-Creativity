@@ -58,8 +58,12 @@
   <ItemGroup>
     <Compile Include="Assets/SampleSceneAssets/Scripts/SimpleCameraController.cs" />
     <Compile Include="Assets/SampleSceneAssets/Scripts/LookWithMouse.cs" />
-    <Compile Include="Assets/MirrorMovement.cs" />
+    <Compile Include="Assets/Scripts/MirrorMovement.cs" />
     <Compile Include="Assets/SampleSceneAssets/Scripts/PlayerMovement.cs" />
+    <Compile Include="Assets/Scripts/GetText.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets/StreamingAssets/Recall_Chat/Chat.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

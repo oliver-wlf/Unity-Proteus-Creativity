@@ -421,10 +421,11 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
-"Assets/MirrorMovement.cs"
 "Assets/SampleSceneAssets/Scripts/LookWithMouse.cs"
 "Assets/SampleSceneAssets/Scripts/PlayerMovement.cs"
 "Assets/SampleSceneAssets/Scripts/SimpleCameraController.cs"
+"Assets/Scripts/GetText.cs"
+"Assets/Scripts/MirrorMovement.cs"
 -langversion:9.0
 
 /deterministic
