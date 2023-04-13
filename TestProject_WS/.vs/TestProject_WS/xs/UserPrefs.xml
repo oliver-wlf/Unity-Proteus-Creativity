@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{613DA42A-8763-17F2-C9A2-DD992FA2CC2E}|">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cb701ad0-0697-40dd-81ad-d44f20e21d58" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.8/Runtime/Lighting/Reflection/PlanarReflectionProbeCache.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GetText.cs">
     <Files>
-      <File FileName="Assets/MirrorMovement.cs" />
-      <File FileName="Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.8/Runtime/Lighting/Reflection/PlanarReflectionProbeCache.cs" Line="113" Column="10" />
+      <File FileName="Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.8/Runtime/Lighting/Reflection/PlanarReflectionProbeCache.cs" />
+      <File FileName="Assets/Scripts/GetText.cs" Line="30" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,9 +16,13 @@
           <Node name="TestProject_WS" expanded="True">
             <Node name="NuGet.Config files" expanded="True" />
             <Node name="Assets" expanded="True">
-              <Node name="HDRPDefaultResources" expanded="True" selected="True" />
+              <Node name="HDRPDefaultResources" expanded="True" />
               <Node name="Mirrors" expanded="True">
                 <Node name="Mirror1" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+              <Node name="StreamingAssets" expanded="True">
+                <Node name="Recall_Chat" expanded="True" />
               </Node>
             </Node>
             <Node name="Packages" expanded="True" />
@@ -26,6 +31,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="128351b2-3f34-4db9-aaa9-2a24dc703bad" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
