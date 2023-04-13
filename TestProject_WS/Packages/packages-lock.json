@@ -21,6 +21,14 @@
       },
       "hash": "bbfbc95fb04eb0bd36cf0f12a74401e4faf93cd0"
     },
+    "com.soupday.cc3_unity_tools": {
+      "version": "file:/Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/HDRP_UnityAutoSetup",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.render-pipelines.high-definition": "10.5.0"
+      }
+    },
     "com.unity.burst": {
       "version": "1.7.4",
       "depth": 1,

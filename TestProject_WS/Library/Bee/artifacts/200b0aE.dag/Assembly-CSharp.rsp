@@ -346,6 +346,8 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/gltf.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/gltf.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/PPv2URPConverters.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/soupday.cc3_unity_tools.editor.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/soupday.cc3_unity_tools.runtime.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Burst.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Burst.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"

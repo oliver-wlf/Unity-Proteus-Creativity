@@ -63,6 +63,9 @@
     <Compile Include="Assets/Scripts/GetText.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets/Avatars/Non-Inventor/party-f-0001/party-f-0001_ImportInfo.txt" />
+    <None Include="Assets/Avatars/Non-Inventor/party-m-0001/party-m-0001_ImportInfo.txt" />
+    <None Include="Assets/Avatars/Inventor/uniform-f-0026/uniform-f-0026_ImportInfo.txt" />
     <None Include="Assets/StreamingAssets/Recall_Chat/Chat.txt" />
   </ItemGroup>
   <ItemGroup>
@@ -959,6 +962,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="soupday.cc3_unity_tools.runtime.csproj">
+      <Project>{6135D9A7-DBA3-113F-2076-189891AF7A4B}</Project>
+      <Name>soupday.cc3_unity_tools.runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="soupday.cc3_unity_tools.editor.csproj">
+      <Project>{FE39F881-634E-E24F-9EA8-441960E34B1A}</Project>
+      <Name>soupday.cc3_unity_tools.editor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

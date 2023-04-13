@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.didimo.sdk.core": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.core#4.5.2",
+    "com.soupday.cc3_unity_tools": "file:/Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/HDRP_UnityAutoSetup",
     "com.unity.cinemachine": "2.8.9",
     "com.unity.collab-proxy": "1.17.2",
     "com.unity.feature.development": "1.0.1",

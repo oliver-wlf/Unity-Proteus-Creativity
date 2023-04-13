@@ -5,20 +5,34 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638164096150000000
-    m_Hash: 2295528913
+      ticks: 638169857370000000
+    m_Hash: 1278636637
   m_LockFileStatus:
     m_FilePath: /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638164096150000000
-    m_Hash: 3943701964
+      ticks: 638169857370000000
+    m_Hash: 1837214585
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
-  m_LocalFileStatus: []
+  m_LocalFileStatus:
+  - m_FilePath: /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/HDRP_UnityAutoSetup/package.json
+    m_PathExists: 1
+    m_ContentTrackingEnabled: 1
+    m_ModificationDate:
+      serializedVersion: 2
+      ticks: 638136311840000000
+    m_Hash: 1498592367
+  - m_FilePath: /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/HDRP_UnityAutoSetup
+    m_PathExists: 1
+    m_ContentTrackingEnabled: 1
+    m_ModificationDate:
+      serializedVersion: 2
+      ticks: 0
+    m_Hash: 0
 m_ProjectPath: /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Packages
 m_EditorVersion: 2022.1.20f1 (01d83b40d570)
 m_ResolvedPackages:
@@ -127,6 +141,94 @@ m_ResolvedPackages:
   isAssetStorePackage: 0
   datePublishedTicks: 0
   documentationUrl: https://developer.didimo.co/docs/unity-sdk
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.soupday.cc3_unity_tools@file:/Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/HDRP_UnityAutoSetup
+  testable: 0
+  isDirectDependency: 1
+  version: 1.4.7
+  source: 4
+  resolvedPath: /Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/HDRP_UnityAutoSetup
+  assetPath: Packages/com.soupday.cc3_unity_tools
+  name: com.soupday.cc3_unity_tools
+  displayName: CC/iC Unity Tools HDRP
+  author:
+    name: Victor Soupday
+    email: user@noreply.com
+    url: https://github.com/soupday
+  category: 
+  type: tool
+  description: Unity importer for Character Creator 3 & 4 and iClone 7 and 8.
+  status: 4
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    verified: 
+  dependencies:
+  - name: com.unity.render-pipelines.high-definition
+    version: 10.5.0
+  resolvedDependencies:
+  - name: com.unity.render-pipelines.high-definition
+    version: 13.1.8
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.burst
+    version: 1.7.4
+  - name: com.unity.modules.video
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.render-pipelines.core
+    version: 13.1.8
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.shadergraph
+    version: 13.1.8
+  - name: com.unity.searcher
+    version: 4.9.2
+  - name: com.unity.visualeffectgraph
+    version: 13.1.8
+  - name: com.unity.render-pipelines.high-definition-config
+    version: 13.1.8
+  keywords:
+  - Reallusion
+  - Character Creator
+  - iClone
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: https://soupday.github.io/cc_unity_tools/index.html
   hasRepository: 0
   repository:
     type: 
@@ -4751,10 +4853,12 @@ m_ResolvedPackages:
     - 5.0.3
     - 5.0.4
     - 5.0.6
+    - 5.0.7
     compatible:
     - 5.0.4
     - 5.0.6
-    verified: 5.0.6
+    - 5.0.7
+    verified: 5.0.7
   dependencies:
   - name: com.unity.settings-manager
     version: 1.0.3
@@ -4843,10 +4947,12 @@ m_ResolvedPackages:
     - 1.1.0-pre.1
     - 1.1.2
     - 1.1.3
+    - 1.1.4
     compatible:
     - 1.1.2
     - 1.1.3
-    verified: 1.1.3
+    - 1.1.4
+    verified: 1.1.4
   dependencies:
   - name: com.unity.settings-manager
     version: 1.0.3
@@ -5449,6 +5555,7 @@ m_ResolvedPackages:
     - 1.2.0
     - 1.2.1
     - 1.2.2
+    - 1.2.3
     compatible:
     - 1.1.1
     - 1.2.0-exp.1
@@ -5461,6 +5568,7 @@ m_ResolvedPackages:
     - 1.2.0
     - 1.2.1
     - 1.2.2
+    - 1.2.3
     verified: 1.1.1
   dependencies:
   - name: com.unity.test-framework
