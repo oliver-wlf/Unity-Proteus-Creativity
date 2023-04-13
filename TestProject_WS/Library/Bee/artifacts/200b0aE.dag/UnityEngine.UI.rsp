@@ -350,7 +350,6 @@
 -r:"/Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
 -r:"/Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll"
 -r:"/Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
-"Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Editor/ShaderGUI/MaterialAssemblyReference/RawRenderQueue.cs"
 "Library/PackageCache/com.unity.shadergraph@13.1.8/Editor/Generation/Targets/BuiltIn/Editor/ShaderGUI/MaterialAssemblyReference/RawRenderQueue.cs"
 "Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/AxisEventData.cs"
 "Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/BaseEventData.cs"

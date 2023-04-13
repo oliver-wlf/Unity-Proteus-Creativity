@@ -120,8 +120,6 @@
 -define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:HDRP_PRESENT
--define:URP_PRESENT
--define:URP_PRESENT_10_1_OR_NEWER
 -define:HDRP_PRESENT_10_1_OR_NEWER
 -define:ISX_PRESENT
 -define:CSHARP_7_OR_LATER
@@ -354,7 +352,6 @@
 -r:"/Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/Unity-Proj_Creativity/TestProject_WS/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.InputSystem.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.RenderPipelines.HighDefinition.Runtime.ref.dll"
--r:"Library/Bee/artifacts/200b0aE.dag/Unity.RenderPipelines.Universal.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.SpatialTracking.ref.dll"

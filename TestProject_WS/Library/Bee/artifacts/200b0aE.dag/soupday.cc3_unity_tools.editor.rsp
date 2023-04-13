@@ -120,8 +120,6 @@
 -define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:SCENEVIEW_OVERLAY_COMPATIBLE
--define:URP_10_5_0_OR_NEWER
--define:URP_12_0_0_OR_NEWER
 -define:HDRP_10_5_0_OR_NEWER
 -define:HDRP_11_0_0_OR_NEWER
 -define:HDRP_12_0_0_OR_NEWER
@@ -359,8 +357,6 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.RenderPipelines.Core.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.RenderPipelines.HighDefinition.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.RenderPipelines.HighDefinition.Runtime.ref.dll"
--r:"Library/Bee/artifacts/200b0aE.dag/Unity.RenderPipelines.Universal.Editor.ref.dll"
--r:"Library/Bee/artifacts/200b0aE.dag/Unity.RenderPipelines.Universal.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.ref.dll"

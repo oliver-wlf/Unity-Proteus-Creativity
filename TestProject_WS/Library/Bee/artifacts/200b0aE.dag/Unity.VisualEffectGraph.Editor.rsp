@@ -121,7 +121,6 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:VFX_HAS_TIMELINE
 -define:VFX_HAS_HDRP
--define:VFX_HAS_UNIVERSAL
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"/Applications/Unity/Hub/Editor/2022.1.20f1/Unity.app/Contents/Managed/UnityEditor.Graphs.dll"

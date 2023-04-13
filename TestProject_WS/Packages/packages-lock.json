@@ -7,20 +7,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-    "com.didimo.sdk.core": {
-      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.core#4.5.2",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "2.0.2",
-        "com.unity.render-pipelines.universal": "10.5.0",
-        "com.unity.textmeshpro": "3.0.6",
-        "com.unity.editorcoroutines": "1.0.0",
-        "com.unity.cinemachine": "2.6.11",
-        "com.unity.timeline": "1.6.4"
-      },
-      "hash": "bbfbc95fb04eb0bd36cf0f12a74401e4faf93cd0"
-    },
     "com.soupday.cc3_unity_tools": {
       "version": "file:/Users/oliverwolf/Documents/FHWS_MIS/MIS_4/Wissenschaftsseminar/HDRP_UnityAutoSetup",
       "depth": 0,
@@ -28,6 +14,16 @@
       "dependencies": {
         "com.unity.render-pipelines.high-definition": "10.5.0"
       }
+    },
+    "com.unity.animation.rigging": {
+      "version": "1.1.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.burst": "1.4.1",
+        "com.unity.test-framework": "1.1.24"
+      },
+      "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
       "version": "1.7.4",
@@ -167,7 +163,7 @@
     },
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.0.2",
-      "depth": 1,
+      "depth": 2,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -232,17 +228,6 @@
       "source": "builtin",
       "dependencies": {
         "com.unity.render-pipelines.core": "13.1.8"
-      }
-    },
-    "com.unity.render-pipelines.universal": {
-      "version": "13.1.8",
-      "depth": 1,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.mathematics": "1.2.1",
-        "com.unity.burst": "1.7.3",
-        "com.unity.render-pipelines.core": "13.1.8",
-        "com.unity.shadergraph": "13.1.8"
       }
     },
     "com.unity.searcher": {
