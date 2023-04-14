@@ -5,27 +5,18 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GetText.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/VRRig.cs">
     <Files>
-      <File FileName="Library/PackageCache/com.unity.render-pipelines.high-definition@13.1.8/Runtime/Lighting/Reflection/PlanarReflectionProbeCache.cs" />
-      <File FileName="Assets/Scripts/GetText.cs" Line="30" Column="6" />
+      <File FileName="Assets/Scripts/GetText.cs" />
+      <File FileName="Assets/Scripts/VRRig.cs" Line="42" Column="12" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TestProject_WS" expanded="True">
-            <Node name="NuGet.Config files" expanded="True" />
             <Node name="Assets" expanded="True">
-              <Node name="HDRPDefaultResources" expanded="True" />
-              <Node name="Mirrors" expanded="True">
-                <Node name="Mirror1" expanded="True" />
-              </Node>
               <Node name="Scripts" expanded="True" />
-              <Node name="StreamingAssets" expanded="True">
-                <Node name="Recall_Chat" expanded="True" />
-              </Node>
             </Node>
-            <Node name="Packages" expanded="True" />
           </Node>
         </State>
       </Pad>

@@ -61,7 +61,7 @@
     <Compile Include="Assets/Scripts/MirrorMovement.cs" />
     <Compile Include="Assets/SampleSceneAssets/Scripts/PlayerMovement.cs" />
     <Compile Include="Assets/Scripts/GetText.cs" />
-    <Compile Include="Assets/VRRig.cs" />
+    <Compile Include="Assets/Scripts/VRRig.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/Avatars/Non-Inventor/party-f-0001/party-f-0001_ImportInfo.txt" />

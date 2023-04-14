@@ -420,7 +420,7 @@
 "Assets/SampleSceneAssets/Scripts/SimpleCameraController.cs"
 "Assets/Scripts/GetText.cs"
 "Assets/Scripts/MirrorMovement.cs"
-"Assets/VRRig.cs"
+"Assets/Scripts/VRRig.cs"
 -langversion:9.0
 
 /deterministic
